@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\src"
   ],
-  "SelectedNode": "\\PhysEngine.cpp",
+  "SelectedNode": "\\PhysicsEngine.cpp",
   "PreviewInSolutionExplorer": false
 }
